@@ -1,0 +1,225 @@
+@import url("https://www.cssfontstack.com/Arial%20Black");
+
+html{
+    width: 1260px;
+    height:940px;
+    background-color:#EDF2C5;
+    box-sizing: border-box;
+    
+}
+*,*:before,*:after{
+    box-sizing: inherit;
+}
+.head{
+    padding:53px 160px 0px 160px;
+}
+.headflex{
+    display:flex;
+}
+.headtitle{
+    margin-left: 160px;
+    display:block; 
+    width:271px;
+    height:42px;
+    margin-top:53px;
+    margin-right: 468px;
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-size: 44px 36px;
+    color:#778A50;
+}
+.picture1{
+    display:flex;
+    width:25px;
+    height:25px;
+    margin-top: 65px;
+}
+.picture11{
+    display:block;
+    margin-right: 10px;
+}
+.picture12{
+    display:block;
+    margin-right: 10px;
+    
+}
+.link1{
+    width: 1px;
+    height: 25px;
+    margin-top: 65px;
+    margin-left: 45px;
+    margin-right: 10px;
+    background-color: #778A50;
+}
+.box1{
+    display:flex;
+    font-size:14px;
+    color:#778A50;
+    margin-top: 51px;
+    
+    
+}
+.box11{
+    display:block;
+    width:60px;
+    height:25px;
+    font-family: "Arial Bold", Gadget, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4px;
+    border:1px solid #778A50;
+    border-radius: 3px;
+}
+.box12{
+    display:block;
+    width:50px;
+    height:25px;
+    font-family: "Arial Bold", Gadget, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4px;
+    /*margin-right: 100px;*/
+    margin-left: 10px;
+    border:1px solid #778A50;
+    border-radius: 3px;
+}
+.second{
+    margin-left: 160px;
+}
+
+.nav{
+    margin-top: 8px;
+    width: 940px;
+    height: 44px;
+    padding: 16px 317px 16px 30px;
+    background-color: #778A50;
+}
+.nav-list{
+    display:flex;
+    font-weight:bold ;
+    
+    margin: 0;
+    padding: 0;
+
+}
+.nav-list-item{
+    list-style:none;
+    
+    margin-right:60px;
+}
+.nav-list-item-link{
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-size: 16px;
+    color:#EDF2C5;
+    display:block;
+    text-decoration: none;  
+}
+.picture2{
+    margin-top: 20px;
+    margin-left: 160px;
+    width: 940px;
+    height: 448px;
+}
+.secondparagraph{
+    display:flex;
+    margin-left: 160px;
+    
+}
+.secondtitle{
+    display:flex;
+    margin-top: 30px;
+    font-weight:bold ;
+    
+}
+.title21{
+    display:block;
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color:#EDF2C5;
+    padding:15px 30px;
+    margin-right: 50px;
+    margin-left: 160px;
+    width: 445px;
+    height:45px;
+    background-color: #778A50;
+}
+.title22{
+    display:block;
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color:#EDF2C5;
+    padding:15px 30px;
+    
+    width: 445px;
+    height:45px;
+    background-color: #778A50;
+    
+}
+.picture345{
+    display:flex;
+    width:140px;
+    height:140px;
+}
+.picture3{
+    display:block;
+    margin-right: 12px;
+}
+.picture4{
+    
+    display:block;
+    margin-right: 12px;
+}
+.picture5{
+    display:block;
+    
+}
+.word{
+    width:445px;
+    height:140px;
+    margin-left: 355px;
+    padding-left: 15px;
+    padding-bottom: 16px;
+    background-color: #F7FBDA;
+}
+.word1{
+    word-wrap:break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    color:#7D7D7D;
+    padding-right: 15px;
+}
+.link2{
+    width:405px;
+    height:1px;
+    background-color: #7D7D7D;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.word2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    
+    color:#7D7D7D;
+}
+.word3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    
+    color:#7D7D7D;
+}
+.lastbox{
+    width:1264px;
+    height:60px;
+    padding: 15px 479px 25px 479px;
+    background-color: #778A50;
+    margin-top: 35px;
+    margin-left: 0px;
+    box-sizing: border-box;
+}
+.last{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color:#EDF2C5;
+    margin-left: 0px !important;
+}
