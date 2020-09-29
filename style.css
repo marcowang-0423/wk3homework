@@ -5,7 +5,7 @@ html{
     height:940px;
     background-color:#EDF2C5;
     box-sizing: border-box;
-    
+    margin: auto;
 }
 *,*:before,*:after{
     box-sizing: inherit;
